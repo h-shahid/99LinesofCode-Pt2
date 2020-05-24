@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(166, 241, 234);
+  }
+  h1 {
+    color: rgb(207, 10, 207);
+    font-family: "Verdana", sans-serif;
+  }
+  .friend {
+    background-color: rgb(241, 201, 207);
+    font-family: "Verdana", sans-serif;
+    color: royalblue;
+  }
+  h3 {
+    text-transform: uppercase;
+    font-style: italic;
+    color: rgb(40, 24, 185);
+  }
